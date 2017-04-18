@@ -1,0 +1,7 @@
+VAR_NAME	VAR_VALUE
+cur_path	D:\RESEARCH\spm8\toolbox\aal\demo\test 2 subjects\
+job_dir_path	D:\RESEARCH\spm8\toolbox\aal\necessaryFiles\
+file_info	D:\RESEARCH\spm8\toolbox\aal\necessaryFiles\scaninfo.txt
+aal_tpl_path	D:\RESEARCH\spm8\toolbox\aal\necessaryFiles\ROI_MNI_V4.txt
+list_file	D:\RESEARCH\spm8\toolbox\aal\necessaryFiles\list_file_2subs.mat
+savedSuv	D:\RESEARCH\spm8\toolbox\aal\saved\
