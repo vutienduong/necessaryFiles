@@ -4,4 +4,4 @@ job_dir_path	D:\RESEARCH\spm8\toolbox\aal\necessaryFiles\
 file_info	D:\RESEARCH\spm8\toolbox\aal\necessaryFiles\scaninfo.txt
 aal_tpl_path	D:\RESEARCH\spm8\toolbox\aal\necessaryFiles\ROI_MNI_V4.txt
 list_file	D:\RESEARCH\spm8\toolbox\aal\necessaryFiles\list file for manual template\list_file_49_correct_segment.mat
-savedSuv	D:\RESEARCH\spm8\toolbox\aal\saved\49 correct segment\
+savedSuv	D:\RESEARCH\spm8\toolbox\aal\saved\49 correct segment May\
