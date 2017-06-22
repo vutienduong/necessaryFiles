@@ -8,9 +8,9 @@ matlabbatch{1}.spm.spatial.preproc.output.CSF = [0 0 0];
 matlabbatch{1}.spm.spatial.preproc.output.biascor = 1;
 matlabbatch{1}.spm.spatial.preproc.output.cleanup = 0;
 matlabbatch{1}.spm.spatial.preproc.opts.tpm = {
-                                               'D:\RESEARCH\spm8\tpm\grey.nii'
-                                               'D:\RESEARCH\spm8\tpm\white.nii'
-                                               'D:\RESEARCH\spm8\tpm\csf.nii'
+                                               'D:\duong\spm8\tpm\grey.nii'
+                                               'D:\duong\spm8\tpm\white.nii'
+                                               'D:\duong\spm8\tpm\csf.nii'
                                                };
 matlabbatch{1}.spm.spatial.preproc.opts.ngaus = [2
                                                  2

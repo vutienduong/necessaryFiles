@@ -1,0 +1,2 @@
+VAR_NAME	VAR_VALUE
+spm8_path	D:\duong\spm8\
