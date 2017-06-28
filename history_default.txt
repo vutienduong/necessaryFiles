@@ -1,10 +1,9 @@
 VAR_NAME	VAR_VALUE
-mri_file	D:\RESEARCH\spm8\toolbox\aal\demo\TEST_create list file\PARK_MYEON_JOO_20160708_20160711_002_t1_mprage_SAG_p2_iso_0_8_4_2.img,1
-pet_file	D:\RESEARCH\spm8\toolbox\aal\demo\TEST_create list file\PARK_MYEON_JOO_20160704_18237_600_PTCT_FLORBETABEN_DYNAMIC_3D_Brain-SUM.img,1
-spm_fold	D:\RESEARCH\spm8\
-saved_suv_fold	D:\RESEARCH\spm8\toolbox\aal\demo\TEST_create list file\
+mri_file	D:\duong-files\data\header files changed to PET Eng name\CHOI_MYEONG_MOON_20160905_20160921_002_t1_mprage_SAG_p2_iso_0_8_4_2.img,1
+pet_file	D:\duong-files\data\header files changed to PET Eng name\CHOI_MYEONG_MOON_20160905_18560_606_PTCT_FLORBETABEN_DYNAMIC_3D_Brain(SUM).img,1
+saved_suv_fold	D:\duong-files\save\
 bin_thresh	0.3
-subject_name	PARK_MYEON_JOO
+subject_name	CHOI_MYEONG_MOON
 body_weight	60
 dosage	300
 time	80
