@@ -1,5 +1,0 @@
-VAR_NAME	VAR_VALUE
-cur_path	DIR
-job_dir_path	D:\duong\spm8\toolbox\pet_mri_tool\necessaryFiles
-aal_file	D:\duong\spm8\toolbox\pet_mri_tool\necessaryFiles\ROI_MNI_V4.niiscaninfo_filescaninfo_file
-scaninfo_file	D:\duong\test.xlsx
